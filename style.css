@@ -1,14 +1,9 @@
 body {
-  background-color: #004F00;
+  background-color: #095bb9;
 }
 
 h1 {
   font-family: "Times New Roman", sans-serif, monospace;
   color: #FFFFFF;
   text-align: center;
-}
-
-.meme {
-  height:auto;
-  width: 500px;
 }
