@@ -1,0 +1,25 @@
+/* My CSS playground to understand how it works */
+
+body {
+    background-color: hsla(249, 54%, 31%, 0.450);
+    font-family: "Times New Roman", Verdana, sans-serif;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.page-header,
+.heading {
+    text-decoration: underline;
+}
+
+.heading,
+.text,
+.page-header {
+    color: rgb(255, 255, 255);
+}
+
+.text {
+    font-size: 20px;
+}
