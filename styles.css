@@ -1,7 +1,7 @@
 /* My CSS playground to understand how it works */
 
 body {
-    background-color: hsla(249, 54%, 31%, 0.450);
+    background-color: #24273a;
     font-family: "Times New Roman", Verdana, sans-serif;
 }
 
@@ -17,7 +17,7 @@ body {
 .heading,
 .text,
 .page-header {
-    color: rgb(255, 255, 255);
+    color: #cad3f5;
 }
 
 .text {
