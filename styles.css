@@ -16,10 +16,12 @@ body {
 
 .heading,
 .text,
-.page-header {
+.page-header,
+a {
     color: #cad3f5;
 }
 
-.text {
+.text,
+a {
     font-size: 20px;
 }
